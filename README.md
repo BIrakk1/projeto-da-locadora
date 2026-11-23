@@ -30,11 +30,11 @@ O preenchimento desta seção é **obrigatório**. Cada integrante deve aparecer
 
 | Integrante | GitHub | Responsabilidades planejadas | Entregas efetivamente realizadas | Evidências (commits/PRs) |
 |---|---|---|---|---|
-| Ubirajara Barbosa| @BIrakk1 | RF01 – Cadastro de veículos + validações de cadastro. | [Preencher após implementação] | [Links para commits/PRs] |
-| Marcos Roberto | [@usuario2 — substituir] | [Ex.: cadastro de clientes — RF02] | [Preencher após implementação] | [Links para commits/PRs] |
-| William Gabriel | [@usuario3 — substituir] | [Ex.: locações — RF04] | [Preencher após implementação] | [Links para commits/PRs] |
-| José Diego| [@usuario4 — substituir] | [Ex.: regras de cálculo — RF05] | [Preencher após implementação] | [Links para commits/PRs] |
-| Jonas Marques | [@usuario5 — substituir] | [Ex.: devolução e consultas — RF06/RF07] | [Preencher após implementação] | [Links para commits/PRs] |
+| Ubirajara Barbosa| @BIrakk1 | RF01 – Cadastro de veículos + validações de cadastro, Github/Readme e implementação e validação dos RF. | [Preencher após implementação] | [Links para commits/PRs] |
+| Marcos Roberto | marcosbrandao-cmyk | Testes e validações e RF07 - Consulta de locações  | [Preencher após implementação] | [Links para commits/PRs] |
+| William Gabriel | williamfausto-prog | RF02 - Cadastro de clientes e RF05 - Cálculo polimŕfico dos valores de locação | [Preencher após implementação] | [Links para commits/PRs] |
+| José Diego| Diego11844 | RF06 - Devolução de veículos | [Preencher após implementação] | [Links para commits/PRs] |
+| Jonas Marques | Jasqueno | RF03 - Consulta de veículos e RF04 - Registro de locações | [Preencher após implementação] | [Links para commits/PRs] |
 
 > Ajuste a quantidade de linhas ao número real de integrantes. **Planejamento não equivale a comprovação de autoria.** A avaliação individual considerará as alterações efetivas e a capacidade de explicá-las. A distribuição acima é apenas ilustrativa; não há obrigação de manter essas atribuições.
 
